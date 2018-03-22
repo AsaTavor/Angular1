@@ -1,0 +1,25 @@
+.mainPart{
+    position: fixed;
+    left: 5%;
+    bottom: 15%;
+    top:15%;
+    right: 5%;
+    background-color:fuchsia;
+    color:gold;
+    text-align: center;
+    font-size: 6em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: forestgreen;
+    text-decoration-style: double;
+    border: darkslategrey;
+    border-image-width: 12px;
+    border-radius: 50px;
+    
+
+}
+.inner{
+    top:40%;
+    left:39%;
+    position: fixed;
+    text-align: center;
+}
